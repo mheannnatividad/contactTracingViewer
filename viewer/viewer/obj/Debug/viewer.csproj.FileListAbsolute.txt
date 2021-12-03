@@ -1,0 +1,10 @@
+C:\Users\Computer\Desktop\OOP\viewer\viewer\bin\Debug\viewer.exe.config
+C:\Users\Computer\Desktop\OOP\viewer\viewer\bin\Debug\viewer.exe
+C:\Users\Computer\Desktop\OOP\viewer\viewer\bin\Debug\viewer.pdb
+C:\Users\Computer\Desktop\OOP\viewer\viewer\obj\Debug\viewer.csproj.AssemblyReference.cache
+C:\Users\Computer\Desktop\OOP\viewer\viewer\obj\Debug\viewer.Form1.resources
+C:\Users\Computer\Desktop\OOP\viewer\viewer\obj\Debug\viewer.Properties.Resources.resources
+C:\Users\Computer\Desktop\OOP\viewer\viewer\obj\Debug\viewer.csproj.GenerateResource.cache
+C:\Users\Computer\Desktop\OOP\viewer\viewer\obj\Debug\viewer.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\OOP\viewer\viewer\obj\Debug\viewer.exe
+C:\Users\Computer\Desktop\OOP\viewer\viewer\obj\Debug\viewer.pdb
